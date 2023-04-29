@@ -1,0 +1,19 @@
+#container {
+    display: flex;
+    justify-content: space-around;
+    background-color: burlywood;
+    width: 1500px;
+    height: 300px;
+}
+
+.blockmem{
+    padding: 60px;
+    background-color: greenyellow;
+    
+}
+.selected {
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 10px, rgb(41, 141, 208) 10px, rgb(41, 141, 208) 20px);
+  }
+  .selected1 {
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 10px, rgb(172, 27, 27) 10px, rgb(172, 27, 27) 20px);
+  }
